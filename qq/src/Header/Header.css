@@ -1,2 +1,4 @@
-ul{background-color: #6b5499;margin: 0;height: 30px;}
-ul li{display: inline-block;list-style: none;color: #fff;width: 10%;text-align: center;}
+.header-list{  position: fixed;  z-index: 500;  width: 100%;  top: 0; left: 0;}
+.header-list ul{clear: both;background-color: #6b5499;margin: 0;height: 41px;text-align: left;padding: 0 0 0 117px;}
+.header-list ul li{float: left;list-style: none;color: #fff;padding: 0 10px;text-align: center;line-height: 41px;}
+.header-list ul li a{list-style: none;color: #fff;font-size: 14px;width: 100%;text-align: center;line-height: 41px;text-decoration:none;}

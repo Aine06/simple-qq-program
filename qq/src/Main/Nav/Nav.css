@@ -1,2 +1,2 @@
 .main-nav nav ul{background: none;}
-.main-nav nav ul li{color: #000;}
+.main-nav ul li{color: #000;display: inline-block;list-style: none;width: 10%;font-size: 14px;text-align: center;line-height: 41px;}

@@ -5,6 +5,13 @@
     <file url="file://$PROJECT_DIR$/src/Header/Header.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Main/Main.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Main/Main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Main/MainLeft/Dynamic/Dynamic.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Main/MainM/MainContent/MainConList/MainConList.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Main/MainM/MainContent/MainContent.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Main/MainM/SubjectText/SubjectText.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Main/MainRight/Date/Date.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Main/MainRight/MainRight.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Main/MainRight/MainRight.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Main/Nav/Nav.js" charset="UTF-8" />
   </component>
 </project>

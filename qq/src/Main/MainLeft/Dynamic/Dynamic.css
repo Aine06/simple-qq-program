@@ -1,0 +1,4 @@
+.Dynamic{}
+.Dynamic ul {border: 1px #d2c8e6 solid;padding: 0;background-color:#fff;margin: 0;}
+.Dynamic ul li{list-style: none;}
+.Dynamic ul li a{line-height: 35px; color: #2f2e33;text-decoration: none;}

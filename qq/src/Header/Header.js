@@ -4,20 +4,23 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import './Header.css';
+import logo from  './logo.jpg';
+
 
 
 class Header extends Component {
     render() {
         return (
             <div className="App">
-                <div>
+                <div className="header-list">
                 <nav>
                     <ul>
-                        <li>个人中心</li>
-                        <li>我的主页</li>
-                        <li>好友</li>
-                        <li>游戏</li>
-                        <li>装扮</li>
+                        <li><a href=""><img src={logo} alt=""/></a></li>
+                        <li><a href="">个人中心</a></li>
+                        <li><a href="">我的主页</a></li>
+                        <li><a href="">好友</a></li>
+                        <li><a href="">游戏</a></li>
+                        <li><a href="">装扮</a></li>
                     </ul>
                 </nav>
             </div>

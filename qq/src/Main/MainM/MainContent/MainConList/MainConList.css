@@ -1,0 +1,9 @@
+.MainConList{background-color: #fff;list-style: none;padding-top: 16px;    margin-bottom: 16px;}
+.mainConC{clear: both;height: 51px;}
+.mainConImg{width: 50px;height: 50px;float: left;margin-right: 10px;}
+.mainConImg img{width: 50px;height: 50px;float: left}
+.mainConList{float: left;text-align: left;}
+.mainConList a{color: #827e8c;}
+.mainConList span{color: #827e8c;}
+
+.mainConText{text-align: left;line-height: 18px;padding: 0 16px 0;    margin: 0 0 8px;}
